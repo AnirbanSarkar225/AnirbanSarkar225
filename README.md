@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on various projects.<br>🤝 I am available for and to help.<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m Vanguard — an Engineering student with a strong interest in software development, problem solving, and building scalable digital solutions.
+
+I enjoy working at the intersection of technology and practical application, turning ideas into structured, functional systems. My focus areas include:
+
+🔹 Data Structures & Algorithms
+
+🔹 Core Programming (C, Java)
+
+🔹 Web Development & Backend Systems
+
+🔹 Database Management (SQL, PostgreSQL)
+
+🔹 Electronics & Core Engineering Concepts
+
+Currently, I’m building projects that combine clean architecture, logical thinking, and performance optimization. I believe in writing structured code, understanding fundamentals deeply, and continuously refining my technical skills.
 
 
 ## 🌐 Socials:
