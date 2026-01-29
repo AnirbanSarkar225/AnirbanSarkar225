@@ -5,7 +5,7 @@ I enjoy working at the intersection of technology and practical application, tur
 
 🔹 Data Structures & Algorithms
 
-🔹 Core Programming (C, Java)
+🔹 Core Programming {C, Python, Java(optional)}
 
 🔹 Web Development & Backend Systems
 
