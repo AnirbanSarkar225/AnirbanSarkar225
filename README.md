@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vanguard — an Engineering student with a strong interest in software development, problem solving, and building scalable digital solutions.
+Hi, I’m Anirban Sarkar — an Engineering student with a strong interest in software development, problem solving, and building scalable digital solutions.
 
 I enjoy working at the intersection of technology and practical application, turning ideas into structured, functional systems. My focus areas include:
 
